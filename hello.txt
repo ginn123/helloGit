@@ -1,5 +1,5 @@
 Hello Git
 Git is a new control system.
 Git is free software.
-
+Git has a mutable index called stage.
 add new txt3
